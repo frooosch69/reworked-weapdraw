@@ -1,7 +1,7 @@
 # Reworked weapdraw.lua
 Reworked weapdraw. lua inside of qb-weapons for more fairplay between police and crooks
 
-(Preview)[https://youtu.be/uclpmhRMSx4]
+[Preview](https://youtu.be/uclpmhRMSx4)
 
 # Instuctions
 - 1. Open qb-weapons
