@@ -7,5 +7,5 @@ Reworked weapdraw. lua inside of qb-weapons for more fairplay between police and
 
 # Instuctions
 - 1. Open qb-weapons
-- 2. Go into client folder and replace givin weapdraw.lua with my weapdraw.lua
+- 2. Go into client folder and replace premade weapdraw.lua with my weapdraw.lua
 - 3. Enjoy
